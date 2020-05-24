@@ -40,7 +40,6 @@ buildNumber.properties
 ## Visual Studio Code
 ##############################
 
-
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -50,3 +49,6 @@ buildNumber.properties
 
 # Local History for Visual Studio Code
 .history/
+
+# Folders
+BaeldungProjects/
