@@ -7,5 +7,5 @@ Exercises related to spring java framework tutorials
 4. Consuming a RESTful Web Service, consuming-rest, https://spring.io/guides/gs/consuming-rest/
 5. Accessing Data with JPA, accessing-data-jpa, https://spring.io/guides/gs/accessing-data-jpa/
 6. Building a RESTful Web Service, rest-service, https://spring.io/guides/gs/rest-service/
-
+7. Accessing Relational Data using JDBC with Spring, relational-data-access, https://spring.io/guides/gs/relational-data-access/
 
