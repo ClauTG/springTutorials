@@ -1,4 +1,4 @@
-# javaPractice
+# Spring Practice
 Exercises related to spring java framework tutorials
 
 1. Accessing JPA Data with REST, artifactId: accessing-data-rest, https://spring.io/guides/gs/accessing-data-rest/
