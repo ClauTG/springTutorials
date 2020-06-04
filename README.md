@@ -11,3 +11,4 @@ Exercises related to spring java framework tutorials
 
 8. Building an Application with Spring Boot,spring-boot, https://spring.io/guides/gs/spring-boot/
 
+9. Securing a Web Application, securing-web, https://spring.io/guides/gs/securing-web/
