@@ -14,3 +14,5 @@ Exercises related to spring java framework tutorials
 9. Securing a Web Application, securing-web, https://spring.io/guides/gs/securing-web/
 
 10. Testing the Web Layer, testing-web, https://spring.io/guides/gs/testing-web/
+
+11. Serving Web Content with Spring MVC, serving-web-content, https://spring.io/guides/gs/serving-web-content/
