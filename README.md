@@ -8,11 +8,8 @@ Exercises related to spring java framework tutorials
 5. Accessing Data with JPA, accessing-data-jpa, https://spring.io/guides/gs/accessing-data-jpa/
 6. Building a RESTful Web Service, rest-service, https://spring.io/guides/gs/rest-service/
 7. Accessing Relational Data using JDBC with Spring, relational-data-access, https://spring.io/guides/gs/relational-data-access/
-
 8. Building an Application with Spring Boot,spring-boot, https://spring.io/guides/gs/spring-boot/
-
 9. Securing a Web Application, securing-web, https://spring.io/guides/gs/securing-web/
-
 10. Testing the Web Layer, testing-web, https://spring.io/guides/gs/testing-web/
-
 11. Serving Web Content with Spring MVC, serving-web-content, https://spring.io/guides/gs/serving-web-content/
+12. Messaging with RabbitMQ, messaging-rabbitmq, https://spring.io/guides/gs/messaging-rabbitmq/
