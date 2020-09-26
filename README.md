@@ -13,3 +13,5 @@ Exercises related to spring java framework tutorials
 10. Testing the Web Layer, testing-web, https://spring.io/guides/gs/testing-web/
 11. Serving Web Content with Spring MVC, serving-web-content, https://spring.io/guides/gs/serving-web-content/
 12. Messaging with RabbitMQ, messaging-rabbitmq, https://spring.io/guides/gs/messaging-rabbitmq/
+13. Uploading Files, uploading-files, https://spring.io/guides/gs/uploading-files/
+14. Enabling Cross Origin Requests for a RESTful Web Service, rest-service-cors, https://spring.io/guides/gs/rest-service-cors/
